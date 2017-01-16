@@ -6,3 +6,7 @@ docs/doctrees/*
 .coverage
 .project
 .pydevproject
+.idea/*
+build/*
+env/*
+
